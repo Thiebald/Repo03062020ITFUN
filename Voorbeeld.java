@@ -1,3 +1,3 @@
 class Voorbeeld{
-	System.out.println("start");
+	System.out.println("hoi");
 }
